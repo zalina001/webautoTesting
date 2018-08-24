@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+  <test name="test1" >
+    <classes>
+       <class name="com.mainData.testng.DataTest" >
+       <methods>
+       <include name="test1"></include>
+       </methods>
+       </class>
+     <!--    <class name="com.crazypig.testngdemo.TestNGAnnotationTest2" />-->
+    </classes>
+  </test>
+</suite>
+
+
